@@ -1091,11 +1091,11 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="67004d" />
+        <option name="BACKGROUND" value="9933ff" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="5" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="9933ff" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -3085,7 +3085,7 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
+        <option name="ERROR_STRIPE_COLOR" value="cc0099" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
